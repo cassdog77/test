@@ -7,4 +7,4 @@
 3.커밋준비 : index, staging area
 4.커밋완료 : 저장소 repository
 5.지우고 이전버젼가기 : reset
-6.지우지 않고 이전버젼가기: revert
+6.지우지 않고 이전버젼가기: revere commit
